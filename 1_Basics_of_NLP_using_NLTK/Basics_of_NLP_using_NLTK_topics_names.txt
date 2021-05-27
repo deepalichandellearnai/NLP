@@ -1,0 +1,5 @@
+NLTK
+Part1: * Introduction of NLP* Introduction of NLTK, it’s installation, and download* Operations using NLTK	o Tokenization		* Sentence tokenization		* Word tokenization	o Regex	o Punctuation	o Stop words	o POS Tagging
+Part 2:* NER* Chunking* Chinking* Stemming and Lemmatization
+Part 3:* Corpora and Corpus* Wordnet	* Finding meanings, synonyms, antonyms of a token and similarity between two 	tokens 	* Bag of words
+Part 4:* Project-Text Classification(spam and ham mails classification)

@@ -1,0 +1,5 @@
+spaCY
+Part 1: * Introduction of spaCy* Limitations of NLTK* Why to use spaCY?* NLTK vs spaCY* Architecture of spaCY* NLP pipeline
+Part 2:* Introduction about models of spaCy* Basic operations of spaCy	o Tokenization	o Lemmatization	o Stop words	o POS tagging and dependency parser	o Named Entities recognition	o Word vectors and similarity
+Part 3:* Vocab, hashes, lexemes	o How to access different details about a token or word of text with object of vocab class* NER with transformers
+Part 4:* Project- Text Classification with spaCy* Limitations of spaCy
